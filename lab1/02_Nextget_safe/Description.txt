@@ -1,0 +1,3 @@
+We fixed all vulnerabilities of "The Safe". NextGen Safe doesn’t accept any password, so you can’t guess them! 
+
+Can you still get the flag?
